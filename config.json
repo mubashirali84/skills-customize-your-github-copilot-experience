@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a task management REST API using FastAPI, Pydantic, and in-memory storage.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-10-22"
     }
   ]
 }
